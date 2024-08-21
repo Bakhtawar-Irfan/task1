@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 1</title>
+</head>
+
+<body style="background-image: url('/background.jpg'); color: white; background-size: cover;">
+    <h2 style="text-align: center;">I am Bakhtawar irfan</h2>
+    <h3 style="text-align: center;">Welcome to My Personal Web Page!</h3>
+    <p style="text-align: justify;">
+      My name is Bakhtawar Irfan, and I am a student of Computer Science currently in my 3rd semester. I have a strong passion for sports and enjoy watching movies in my free time. I believe in learning by doing, as I prefer practical work over theory. In addition to my academic and recreational interests, I also love traveling and exploring new places. This is a brief introduction about me.
+
+
+
+
+    </p>
+
+    <h2 style="text-align: center;">My Hobbies</h2>
+    <ul>
+        <li>sports</li>
+        <li>singing</li>
+        <li>Programming</li>
+        <li>movies</li>
+
+    </ul>
+    <h2>My Favorite Picture</h2>
+    <img src="/anas.jpg" height="300px" style="border-radius: 10px;" alt="placeholder picture.">
+
+    <h2>My Favorite Website</h2>
+    <p><a href="https://www.junaidjamshed.com/" target="main">Click here</a> to Visit my F
+        avorite Website </p>
+</body>
+
+</html>
